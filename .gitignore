@@ -1,0 +1,27 @@
+# Python and notebook working files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local datasets and generated artifacts
+data/*
+!data/README.md
+Fake.csv
+True.csv
+manual_testing.csv
+*.joblib
+*.pkl
+*.pt
+*.pth
+.cache/
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
