@@ -1,0 +1,5 @@
+# Optional unfinished BERT embedding experiment only.
+-r requirements.txt
+torch>=2.2,<3
+transformers>=4.40,<5
+tqdm>=4.66,<5
