@@ -1,0 +1,9 @@
+# TF-IDF models, exploration, and local notebook execution.
+# Version bounds are setup guidance, not a recovered training lockfile.
+numpy>=1.24,<3
+pandas>=2.0,<3
+scikit-learn>=1.3,<2
+matplotlib>=3.7,<4
+wordcloud>=1.9,<2
+jupyterlab>=4,<5
+ipykernel>=6,<7
